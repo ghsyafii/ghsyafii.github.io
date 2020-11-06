@@ -17,6 +17,10 @@
     href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
   />
 
+  <style>table, th, td {
+    border: 1px solid black;
+  }</style>
+
     <!-- import the webpage's javascript file -->
     <script src="/script.js" defer></script>
   </head>
@@ -59,10 +63,23 @@
       I am human. My favourite dish is <em>nasi lemak</em>.
     </p>
 
-    <p>
-      If you'd like to contact me, drop me an email at <a href = "mailto: syafiig@gmail.com">syafiig@gmail.com</a>.
-    </p>
+    <p>In <em>no</em> particular order, here are some other dishes I like.</p>
+    <ul>
+      <li>Pizza</li>
+      <li>Sushi</li>
+      <li>Fried Chicken</li>
+    </ul>
 
+    <p>In order of preference, here are my fave colours:</p>
+    <ol>
+      <li>Klein Blue</li>
+      <li>Black</li>
+      <li>Blush Pink</li>
+    </ol>
+
+    Oh, and my favourite website is <a href="https://www.reddit.com">reddit.com</a>.
+<br>
+<br>
     <iframe
       width="200"
       height="200"
@@ -78,10 +95,39 @@
         href="https://giphy.com/gifs/vaporwave-retrowave-chillwave-UT5C4hCvmlSzJ7QeQy"
       ></a>
     </p>
+    <p>Here are two random movies and when they were released:</p>
+    <table style="width:50%">
+      <tr>
+        <th>Movie</th>
+        <th>Year</th> 
+      </tr>
+      <tr>
+        <td>Pulp Fiction</td>
+        <td>1994</td> 
+      </tr>
+      <tr>
+        <td>The Land Before Time</td>
+        <td>1988</td>
+      </tr>
+    </table>
+    <br>
     <p>
       This is my <a href="portfolio.html">portoflio</a>. Yes,
       port<b>O</b>folio.
     </p>
+    <p>Send me your details below and I'll get back to you within a day.
+    </p>
+    <form>
+      <label for="fname"><b>Name</b></label><br>
+      <input type="text" id="fname" name="fname"><br>
+      <label for="email"><b>Email</b></label><br>
+      <input type="email" id="email" name="email">
+    </form>
+    <br>
+    <p>
+      If you'd like to contact me, drop me an email at <a href = "mailto: syafiig@gmail.com">syafiig@gmail.com</a>.
+    </p>
+    <button type="submit" form="form1" value="Submit">Submit</button>
     <!-- include the Glitch button to show what the webpage is about and
           to make it easier for folks to view source and remix -->
     <div class="glitchButton" style="position:fixed;top:20px;right:20px;"></div>
