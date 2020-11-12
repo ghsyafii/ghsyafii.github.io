@@ -1,6 +1,5 @@
 body {
-    background-image: url("images/backgroundimage.jpg");
-    background-size: auto;
+    background-color:burlywood;
   }
 
 h1 {
@@ -10,9 +9,8 @@ h1 {
 }
 
 .buttons {
-    position:absolute;
-    top: 35%;
-    left: 30%;
+    display: flex;
+    justify-content: center;
 }
 
 li {
@@ -38,8 +36,7 @@ ul {
 
 @media (max-width: 900px) {
         body {
-            background-image: url("images/gradient2.jpg");
-            background-size: auto;
+            background-color: grey;
         }
     }
 
