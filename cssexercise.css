@@ -1,0 +1,46 @@
+body {
+    background-image: url("images/backgroundimage.jpg");
+    background-size: auto;
+  }
+
+h1 {
+    font-size: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.buttons {
+    position:absolute;
+    top: 35%;
+    left: 30%;
+}
+
+li {
+    float: right;
+    padding-right: 30px;
+  }
+
+.logo {
+    display: flex;
+    flex-direction: row;
+    display: inline-block;
+}
+
+nav {
+    
+    display:inline-block;
+    float: right;
+}
+
+ul {
+    list-style: none;
+}
+
+@media (max-width: 900px) {
+        body {
+            background-image: url("images/gradient2.jpg");
+            background-size: auto;
+        }
+    }
+
+
