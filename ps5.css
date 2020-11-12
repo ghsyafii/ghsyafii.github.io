@@ -1,0 +1,29 @@
+@font-face {
+    font-family: Simplifica;
+    src: url(fonts/Simplifica.ttf);
+  }
+
+  h1 {
+    font-family: Simplifica;
+  }
+
+  .price {
+      color: red;
+  }
+
+  .container {
+      display: flex;
+      flex-direction: row;
+    justify-content: center;
+    justify-content: space-evenly;
+  }
+  
+  img {
+    width: 50%;
+    height: auto;
+  }
+
+  .button {
+      width: 20%
+      height: 20%
+  }
