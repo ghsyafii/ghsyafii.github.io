@@ -19,9 +19,12 @@
   }
   
   img {
-    width: 50%;
-    height: auto;
-    min-width: 500px;
+
+   
+  width: auto;
+  max-width: 500px;
+  height: auto;
+  max-height: 500px;
   }
 
   .button {
