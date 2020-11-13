@@ -14,13 +14,13 @@
   .container {
       display: flex;
       flex-direction: row;
-    justify-content: center;
-    justify-content: space-evenly;
+  }
+
+  .text {
+    padding-left: 10px;
   }
   
   img {
-
-   
   width: auto;
   max-width: 500px;
   height: auto;
