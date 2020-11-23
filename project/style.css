@@ -1,0 +1,28 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+
+/* body {
+    padding-top: 50px;
+} */
+
+.logo {
+    margin-top: -10px;
+}
+
+a {
+    color:gray;
+}
+
+a:hover {
+    text-decoration: none;
+    color: black;
+}
+
+.createAccount {
+    color:#F91111;
+}
+
+
+
