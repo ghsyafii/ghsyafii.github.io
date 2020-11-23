@@ -2,9 +2,12 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+.navbar-brand {
+    margin-top: 6px;
+}
 
 body {
-    padding-top: 50px;
+    padding-top: 80px;
     margin-left: 20px;
 }
 
