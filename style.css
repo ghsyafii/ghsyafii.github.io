@@ -1,47 +1,37 @@
-/* CSS files add styling rules to your content */
-  
-  h1 {
-    font-style: italic;
-    color: #FC4E00;
-  }
-
   body {
     font-family: helvetica, arial, sans-serif;
-    margin-left: 1em;
-    margin-right: 1em;
+    margin: 1em;
+    height: 100%;
+    padding: 10px;
   }
 
-  .flex-container {
+  .container {
     display: flex;
-    flex-flow: row wrap;
-    justify-content: center;
+    list-style-type: none;
+    
+    margin: 0;
+    padding: 0;
+    }
+
+  .container > .new {
+    margin-left: auto;
   }
-  
-  body {
-    background-color: tan;
+
+  .new, .contact {
+    margin-left:10px;
+  } 
+
+  a {
+    text-decoration: none;
     color: black;
   }
-  
-  /* On screens that are 992px wide or less, the background color is blue */
-  @media screen and (max-width: 992px) {
-    body {
-      background-color: blue;
-      color: white;
-    }
-  }
-  
-  /* On screens that are 600px wide or less, the background color is olive */
-  @media screen and (max-width: 600px) {
-    body {
-      background-color: olive;
-      color: white;
-    }
+
+  footer {
+    position: fixed;
+    bottom: 0;
   }
 
-  .responsive {
-    max-width: 100%;
-    height: auto;
-  }
+  
 
 
   
