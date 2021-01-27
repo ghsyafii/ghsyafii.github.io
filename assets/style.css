@@ -1,3 +1,12 @@
+@font-face {
+  font-family: 'apfel_grotezkregular';
+  src: url('https://ghsyafii.github.io/fonts/apfelgrotezk-regular-webfont.woff2') format('woff2'),
+  url('https://ghsyafii.github.io/fonts/apfelgrotezk-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
   body {
     font-family: helvetica, arial, sans-serif;
     margin: 1em;
@@ -31,6 +40,9 @@
     bottom: 0;
   }
 
+  small {
+    display: block;
+  }
 
 
 
