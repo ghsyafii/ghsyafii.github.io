@@ -10,8 +10,9 @@ body {
   font-family:apfel_grotezkregular;
   font-size: 16px;
   line-height: 1.25;
-  margin: 48px 240px 48px 48px;
+  /*margin: 48px 240px 48px 48px;*/
   max-width: 1140px;
+  /*margin: auto auto auto 100px;*/
 }
 
 div.statement {
@@ -20,33 +21,17 @@ div.statement {
 }
 
 div.statement p {
-  margin: 64px 0 0 0;
+  /*margin: 64px 0 0 0;*/
 }
 
 div.statement h1 span {
   display: inline-block;
-  background-color: #002fa7;
-  width: 48px;
-  height: 48px;
+  background-color: #001AF5;
+  width: 40px;
+  height: 40px;
   border-radius: 24px;
-  margin: 0 32px 0 0;
+  /*margin: 0 32px 0 0;*/
 }
-
-  .container {
-    display: flex;
-    list-style-type: none;
-
-    margin: 0;
-    padding: 0;
-    }
-
-  .container > .new {
-    margin-left: auto;
-  }
-
-  .new, .contact {
-    margin-left:10px;
-  }
 
   a {
     text-decoration: none;
@@ -63,7 +48,7 @@ div.statement h1 span {
   }
 
   .web:hover {
-    color: #BE7DFA;
+    color: #FB443A;
     transition: 0.5s;
   }
 
