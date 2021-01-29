@@ -10,32 +10,44 @@ body {
   font-family:apfel_grotezkregular;
   font-size: 16px;
   line-height: 1.25;
-  /*margin: 48px 240px 48px 48px;*/
-  max-width: 1140px;
-  /*margin: auto auto auto 100px;*/
+  transition: color 2s;
+}
+
+body.dark {
+  color: white;
 }
 
 div.statement {
   font-size: 80px;
   line-height: 1.1;
-}
+  margin: 0 100px 0 80px;
 
-div.statement p {
-  /*margin: 64px 0 0 0;*/
 }
 
 div.statement h1 span {
   display: inline-block;
   background-color: #001AF5;
-  width: 40px;
-  height: 40px;
+  width: 30px;
+  height: 30px;
   border-radius: 24px;
-  /*margin: 0 32px 0 0;*/
+  transition: background-color 1s;
+}
+
+body.dark.div.statement h1 span {
+  background-color: aliceblue;
+}
+
+body.dark div.colour-changer {
+  border: 2px solid white;
 }
 
   a {
-    text-decoration: none;
+    text-decoration: underline;
     color: black;
+  }
+
+  a.dark {
+    color: white;
   }
 
   footer {
@@ -48,23 +60,44 @@ div.statement h1 span {
   }
 
   .web:hover {
-    color: #FB443A;
-    transition: 0.5s;
+    color: springgreen;
+    transition: 0.3s;
   }
 
   .music:hover {
     color: fuchsia;
-    transition: 0.5s;
+    transition: 0.3s;
   }
-.container {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+
+
+div.colour-changer {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  font-size: 15px;
+  border: 2px solid black;
+  padding: 8px 16px 8px 16px;
+  border-radius: 50px;
+  transition: border 1s;
 }
 
-@media only screen and (max-width: 600px) {
-  * {
-    font-size: 1em;
+div.colour-changer input {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0%;
+  /*visibility: hidden;*/
+  /*display: inline;*/
+}
+
+@media only screen and (max-width: 900px) {
+  .statement {
+    font-size: 40%;
+  }
+  div .info {
+    font-size: 50%;
   }
   footer {
     font-size: 0.8em;
@@ -72,8 +105,8 @@ div.statement h1 span {
   div.statement h1 span {
     display: inline-block;
     background-color: crimson;
-    width: 0.5em;
-    height: 0.5em;
+    width: 0.24em;
+    height: 0.24em;
   }
   a {
     font-size: 1em;
