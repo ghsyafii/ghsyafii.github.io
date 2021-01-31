@@ -107,6 +107,8 @@ div.colour-changer input {
   text-decoration: none;
 }
 
+
+
 @media only screen and (max-width: 900px) {
   .statement {
     font-size: 40%;
@@ -122,6 +124,9 @@ div.colour-changer input {
     background-color: crimson;
     width: 0.24em;
     height: 0.24em;
+  }
+  .statement h1 {
+    font-size: 80%;
   }
   a {
     font-size: 1em;
