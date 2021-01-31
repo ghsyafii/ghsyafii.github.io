@@ -18,10 +18,10 @@ body.dark {
 }
 
 div.statement {
-  font-size: 80px;
+  font-size: 70px;
   line-height: 1.1;
   margin: 0 100px 0 80px;
-
+  /*background-color: lightcoral;*/
 }
 
 div.statement h1 span {
@@ -41,10 +41,10 @@ body.dark div.colour-changer {
   border: 2px solid white;
 }
 
-  a {
-    text-decoration: underline;
-    color: black;
-  }
+a {
+  text-decoration: underline;
+  color: inherit;
+}
 
   a.dark {
     color: white;
@@ -60,13 +60,17 @@ body.dark div.colour-changer {
   }
 
   .web:hover {
-    color: springgreen;
+    background-color: springgreen;
+    color: white;
     transition: 0.3s;
+    text-decoration: none;
   }
 
   .music:hover {
-    color: fuchsia;
+    background-color: fuchsia;
+    color: white;
     transition: 0.3s;
+    text-decoration: none;
   }
 
 
@@ -88,8 +92,19 @@ div.colour-changer input {
   width: 100%;
   height: 100%;
   opacity: 0%;
+  cursor: pointer;
   /*visibility: hidden;*/
   /*display: inline;*/
+}
+
+.get-in-touch {
+}
+
+.get-in-touch:hover {
+  background-color: #004FFF;
+  color: white;
+  transition: 0.2s;
+  text-decoration: none;
 }
 
 @media only screen and (max-width: 900px) {
@@ -110,7 +125,6 @@ div.colour-changer input {
   }
   a {
     font-size: 1em;
-    text-decoration: underline;
   }
 }
 
