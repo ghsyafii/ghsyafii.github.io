@@ -131,7 +131,7 @@ div.colour-changer input {
   font-weight: lighter;
 }
 
-.tooltip:hover .tooltiptext {
+.tooltip:active, .tooltip:hover .tooltiptext {
   visibility: visible;
   transition: 0.2s;
 }
