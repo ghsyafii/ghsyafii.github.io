@@ -24,14 +24,14 @@ div.statement {
   /*background-color: lightcoral;*/
 }
 
-div.statement h1 span {
-  display: inline-block;
-  background-color: #001AF5;
-  width: 30px;
-  height: 30px;
-  border-radius: 24px;
-  transition: background-color 1s;
-}
+/*div.statement h1 span {*/
+/*  display: inline-block;*/
+/*  background-color: #001AF5;*/
+/*  width: 30px;*/
+/*  height: 30px;*/
+/*  border-radius: 24px;*/
+/*  transition: background-color 1s;*/
+/*}*/
 
 body.dark.div.statement h1 span {
   background-color: aliceblue;
@@ -110,7 +110,31 @@ div.colour-changer input {
   border-radius: 5px;
 }
 
+.tooltip {
+  position: relative;
+  display: inline-block;
+  cursor: help;
+}
 
+.tooltiptext {
+  font-size: 20%;
+  visibility: hidden;
+  width: 100%;
+  background-color: orangered;
+  color: #fff;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 5px;
+  position: absolute;
+  left: 110%;
+  z-index: 1;
+  font-weight: lighter;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  transition: 0.2s;
+}
 
 @media only screen and (max-width: 900px) {
   .statement {
@@ -122,12 +146,12 @@ div.colour-changer input {
   footer {
     font-size: 0.8em;
   }
-  div.statement h1 span {
-    display: inline-block;
-    background-color: crimson;
-    width: 0.24em;
-    height: 0.24em;
-  }
+  /*div.statement h1 span {*/
+  /*  display: inline-block;*/
+  /*  background-color: crimson;*/
+  /*  width: 0.24em;*/
+  /*  height: 0.24em;*/
+  /*}*/
   .statement h1 {
     font-size: 80%;
   }
