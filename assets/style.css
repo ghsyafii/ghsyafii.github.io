@@ -46,34 +46,50 @@ a {
   color: inherit;
 }
 
-  a.dark {
+a.dark {
     color: white;
-  }
+}
 
-  footer {
+footer {
     position: fixed;
     bottom: 0;
-  }
+}
 
-  small {
+small {
     display: block;
-  }
+}
 
-  .web:hover {
+.web:hover {
     background-color: forestgreen;
     color: white;
     transition: 0.3s;
     text-decoration: none;
     border-radius: 5px;
-  }
+}
 
-  .music:hover {
+.music:hover {
     background-color: fuchsia;
     color: white;
     transition: 0.3s;
     text-decoration: none;
     border-radius: 5px;
-  }
+}
+
+.linkedin:hover {
+  background: #0B66C3;
+  color: white;
+  transition: 0.3s;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.github:hover {
+  background: #24292F;
+  color: white;
+  transition: 0.3s;
+  text-decoration: none;
+  border-radius: 5px;
+}
 
 
 div.colour-changer {
@@ -99,11 +115,9 @@ div.colour-changer input {
   /*display: inline;*/
 }
 
-.get-in-touch {
-}
-
 .get-in-touch:hover {
-  background-color: #004FFF;
+  /*background-color: #004FFF;*/
+  background: #005458;
   color: white;
   transition: 0.2s;
   text-decoration: none;
@@ -120,7 +134,7 @@ div.colour-changer input {
   font-size: 20%;
   visibility: hidden;
   width: 100%;
-  background-color: orangered;
+  background-color: #F36349;
   color: #fff;
   text-align: center;
   padding: 5px 0;
@@ -136,7 +150,6 @@ div.colour-changer input {
   transition: 0.2s;
 }
 
-
 @media only screen and (max-width: 900px) {
   .statement {
     font-size: 40%;
@@ -147,12 +160,7 @@ div.colour-changer input {
   footer {
     font-size: 0.8em;
   }
-  /*div.statement h1 span {*/
-  /*  display: inline-block;*/
-  /*  background-color: crimson;*/
-  /*  width: 0.24em;*/
-  /*  height: 0.24em;*/
-  /*}*/
+
   .statement h1 {
     font-size: 80%;
   }
@@ -162,6 +170,12 @@ div.colour-changer input {
   .tooltip {
     border-bottom: 1px dotted black;
   }
+  /*div.statement h1 span {*/
+  /*  display: inline-block;*/
+  /*  background-color: crimson;*/
+  /*  width: 0.24em;*/
+  /*  height: 0.24em;*/
+  /*}*/
 }
 
 
