@@ -24,6 +24,7 @@ div.statement {
   /*background-color: lightcoral;*/
 }
 
+/*CIRCLE WITH COLOUR*/
 /*div.statement h1 span {*/
 /*  display: inline-block;*/
 /*  background-color: #001AF5;*/
@@ -90,7 +91,6 @@ small {
   text-decoration: none;
   border-radius: 5px;
 }
-
 
 div.colour-changer {
   position: fixed;
@@ -170,6 +170,8 @@ div.colour-changer input {
   .tooltip {
     border-bottom: 1px dotted black;
   }
+
+  /*CIRCLE WITH COLOUR*/
   /*div.statement h1 span {*/
   /*  display: inline-block;*/
   /*  background-color: crimson;*/
