@@ -117,7 +117,7 @@ div.colour-changer input {
 
 .get-in-touch:hover {
   /*background-color: #004FFF;*/
-  background: #005458;
+  background-color: #F36349;
   color: white;
   transition: 0.2s;
   text-decoration: none;
@@ -134,7 +134,7 @@ div.colour-changer input {
   font-size: 20%;
   visibility: hidden;
   width: 100%;
-  background-color: #F36349;
+  background: #005458;
   color: #fff;
   text-align: center;
   padding: 5px 0;
