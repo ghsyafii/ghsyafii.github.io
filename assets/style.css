@@ -20,7 +20,8 @@ body.dark {
 div.statement {
   font-size: 70px;
   line-height: 1.1;
-  margin: 0 100px 0 80px;
+  /*margin: 0 80px 0 80px;*/
+  margin-left: 80px;
   /*background-color: lightcoral;*/
 }
 
@@ -150,6 +151,14 @@ div.colour-changer input {
   transition: 0.2s;
 }
 
+.hide {
+  display: none;
+}
+
+/*.info {*/
+/*  background: #F36349;*/
+/*}*/
+
 @media only screen and (max-width: 900px) {
   .statement {
     font-size: 40%;
@@ -178,6 +187,12 @@ div.colour-changer input {
   /*  width: 0.24em;*/
   /*  height: 0.24em;*/
   /*}*/
+}
+
+@media only screen and (max-width: 700px) {
+  .break {
+    display: initial;
+  }
 }
 
 
