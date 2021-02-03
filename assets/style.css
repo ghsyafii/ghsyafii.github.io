@@ -86,7 +86,8 @@ small {
 }
 
 .github:hover {
-  background: #24292F;
+  /*background: #24292F;*/
+  background: #F64D28;
   color: white;
   transition: 0.3s;
   text-decoration: none;
@@ -118,7 +119,8 @@ div.colour-changer input {
 
 .get-in-touch:hover {
   /*background-color: #004FFF;*/
-  background-color: #F36349;
+  /*background-color: #F36349;*/
+  background: #60269E;
   color: white;
   transition: 0.2s;
   text-decoration: none;
@@ -134,7 +136,7 @@ div.colour-changer input {
 .tooltiptext {
   font-size: 20%;
   visibility: hidden;
-  width: 100%;
+  width: 95%;
   background: #005458;
   color: #fff;
   text-align: center;
