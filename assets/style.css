@@ -157,9 +157,14 @@ div.colour-changer input {
   display: none;
 }
 
-/*.info {*/
-/*  background: #F36349;*/
-/*}*/
+.info {
+  /*background: #F36349;*/
+  margin-right: 15%;
+}
+
+.mobile {
+  display: none;
+}
 
 @media only screen and (max-width: 900px) {
   .statement {
@@ -197,6 +202,9 @@ and (max-device-width: 480px)
   .break {
     display: initial;
   }
+  .mobile {
+    display: initial;
+  }
 
   div.colour-changer {
     font-size: 40px;
@@ -204,12 +212,36 @@ and (max-device-width: 480px)
     padding: 10px 18px 10px 18px;
     border-radius: 50px;
   }
+  .info {
+    margin-right: 20%;
+  }
 
 }
 
+@media only screen and (min-width: 1400px){
+  .info {
+    margin-right: 10%;
+  }
+}
+
 @media only screen and (min-width: 1600px){
-  .large {
+  .break {
     display: initial;
+  }
+  br.large {
+    display: none;
+  }
+}
+
+@media only screen and (min-width: 1800px){
+  .info {
+    margin-right: 30%;
+  }
+  .break {
+    display: initial;
+  }
+  br.large {
+    display: none;
   }
 }
 
