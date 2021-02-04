@@ -158,7 +158,7 @@ div.colour-changer input {
 }
 
 .info {
-  /*background: #F36349;*/
+  background: lightcoral;
   margin-right: 15%;
 }
 
@@ -218,11 +218,11 @@ and (max-device-width: 480px)
 
 }
 
-@media only screen and (min-width: 1400px){
-  .info {
-    margin-right: 10%;
-  }
-}
+/*@media only screen and (min-width: 1400px){*/
+/*  .info {*/
+/*    margin-right: 10%;*/
+/*  }*/
+/*}*/
 
 @media only screen and (min-width: 1600px){
   .break {
@@ -235,7 +235,7 @@ and (max-device-width: 480px)
 
 @media only screen and (min-width: 1800px){
   .info {
-    margin-right: 30%;
+    margin-right: 36%;
   }
   .break {
     display: initial;
