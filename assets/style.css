@@ -166,6 +166,10 @@ div.colour-changer input {
   display: none;
 }
 
+.ig_image {
+  display: none;
+}
+
 @media only screen and (max-width: 900px) {
   .statement {
     font-size: 40%;
