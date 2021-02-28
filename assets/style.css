@@ -17,6 +17,58 @@ body.dark {
   color: white;
 }
 
+* {
+  box-sizing: border-box;
+}
+
+/* Float three columns side by side */
+.column {
+  float: left;
+  width: 33%;
+  padding: 0 10px;
+}
+
+/* Remove extra left and right margins, due to padding in columns */
+.row {margin: 0 -5px;}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Style the counter cards */
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
+  padding: 16px;
+  text-align: center;
+  background-color: #f1f1f1;
+  margin-bottom: 20px;
+  border-radius: 5px;
+}
+
+.card:hover {
+  background-color: lightcoral;
+  transition: 0.3s;
+}
+
+.portfolio {
+  margin-right: 80px;
+}
+
+
+
+p.projects {
+  font-size: 70%;
+  text-decoration: underline;
+}
+
+div.card {
+  font-size: 50%;
+  color: black;
+}
+
 div.statement {
   font-size: 70px;
   line-height: 1.1;
@@ -220,8 +272,28 @@ and (max-device-width: 480px)
   .info {
     margin-right: 20%;
   }
+  .column {
+    float: left;
+    width: 100%;
+    padding: 0 10px;
+  }
 
 }
+
+/* Responsive columns - one column layout (vertical) on small screens */
+/*@media screen and (max-width: 600px) {*/
+/*  !*div.column {*!*/
+/*  !*  width: 100%;*!*/
+/*  !*  display: block;*!*/
+/*  !*  margin-bottom: 20px;*!*/
+/*  !*}*!*/
+
+/*  .column {*/
+/*    float: left;*/
+/*    width: 100%;*/
+/*    padding: 0 10px;*/
+/*  }*/
+/*}*/
 
 /*@media only screen and (min-width: 1400px){*/
 /*  .info {*/
@@ -249,6 +321,7 @@ and (max-device-width: 480px)
     display: none;
   }
 }
+
 
 
 
