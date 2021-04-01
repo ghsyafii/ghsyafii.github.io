@@ -223,6 +223,15 @@ div.colour-changer input {
   border-radius: 50%;
 }
 
+.ps {
+  font-size: 50%;
+}
+
+.musicContent {
+  text-align: center;
+  margin: 0 auto;
+}
+
 @media only screen and (max-width: 900px) {
   .statement {
     font-size: 40%;
