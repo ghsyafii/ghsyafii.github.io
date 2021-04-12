@@ -139,8 +139,8 @@ small {
 
 .github:hover {
   /*background: #24292F;*/
-  background: #F64D28;
-  color: white;
+  background: #0D0208;
+  color: #00FF41;
   transition: 0.3s;
   text-decoration: none;
   border-radius: 5px;
