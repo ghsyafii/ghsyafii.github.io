@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="assets/style.css" />
 
 # NFTs === "bullshit"
-Blockchain is a digital list of transactions that is uneditable and publicly accessible. An NFT is a unique entry in that digital list. What sort of data does an NFT store? We’ll get back to that in a minute.
+Blockchain is a digital list of transactions that is uneditable and publicly accessible. An NFT is a unique entry in that digital list. 
 
 If you want to buy an NFT, you must first create a digital wallet and fill it with cryptocurrency bought with actual money. After paying, the NFT you just bought will have the following data: 
 
@@ -9,7 +9,7 @@ If you want to buy an NFT, you must first create a digital wallet and fill it wi
 * past digital wallets associated with it
 * how much it was sold for
 * dateTime information
-* a url that hosts the digital asset, which is usually a media file like a jpeg
+* a url that hosts the digital asset, which is usually a media file like a .jpeg or .gif
 
 ## Draft Ideas
 
@@ -21,7 +21,7 @@ Provenance, chain of transmission. This can be gamed - a single person can own m
 
 The person doesn't actually buy the art work, but only an association with a digital entry that _points_ to a url that hosts the digital asset. This means that: anybody can download the asset if he has the url, the url might go down, multiple NFTs might point to the same url and there's nothing to guarantee that your NFT is the _real_ one. 
 
-What about using the NFT with the earliest date as an indicated of the real one? Can the url be changed?
+What about using the NFT with the earliest date as an indication of the real one? Can the url be changed?
 
 ## Research
 
