@@ -17,11 +17,15 @@ When you buy an NFT, you're buying a web link. No actual ownership or control of
 
 Greater fool theory
 
-Provenance, chain of transmission. This can be gamed - a single person can own multiple wallets and "buy" and "sell" his own NFTs. A person can also ask his friends to buy his NFTs and pay them back in real money. To outsiders, it can seem that an NFT is rising in value.
+Provenance, chain of transmission. This can be gamed - a single person can own multiple wallets and "buy" and "sell" his own NFTs. A person can also ask his friends to buy his NFTs and pay them back in real money. To outsiders, it can seem that an NFT is rising in value. This is also what happens in the high-end art market - but at least you get to own something tangible and that you can enjoy without having to turn on your computer. 
 
-The person doesn't actually buy the art work, but only an association with a digital entry that _points_ to a url that hosts the digital asset. This means that: anybody can download the asset if he has the url, the url might go down, multiple NFTs might point to the same url and there's nothing to guarantee that your NFT is the _real_ one. 
+The person doesn't actually buy the art work, but only an _association_ with a url that hosts the digital asset. This means that: anybody can download the asset if he has the url, the url might go down, multiple NFTs might point to the same url and there's nothing to guarantee that your NFT is the _real_ one. 
 
 What about using the NFT with the earliest date as an indication of the real one? Can the url be changed?
+
+This isn't a takedown of blockchain technology or NFTs as such, but its specific application in the digital art market.
+
+The bored ape series hosts some of the most expensive NFTs, with the cheapest going for a quarter million. The series was created by a dude with links to one of the biggest talent agencies in the world, CAA. CAA talents have been pimping their NFTs (which were probably given to them for free) at their master's behest. The hope is that fools will fall for it.
 
 ## Research
 
