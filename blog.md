@@ -8,6 +8,9 @@ If you want to buy an NFT, you must first create a digital wallet and fill it wi
 * how much it was sold for
 * a url to download the digital asset, such as a jpeg or gif
 
+# Where is the default styling coming from?
+I need to find out. It'll be one of my projects this long weekend. I'm going to start my own blog. First, list down steps.
+
 
 
 
