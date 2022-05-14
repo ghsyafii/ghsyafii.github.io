@@ -25,7 +25,7 @@ What about using the NFT with the earliest date as an indication of the real one
 
 This isn't a takedown of blockchain technology or NFTs as such, but its specific application in the digital art market.
 
-The bored ape series hosts some of the most expensive NFTs, with the cheapest going for a quarter million. The series was created by a dude with links to one of the biggest talent agencies in the world, CAA. CAA talents have been pimping their NFTs (which were probably given to them for free) at their master's behest. The hope is that fools will fall for it.
+The bored ape series hosts some of the most expensive NFTs, with the cheapest going for a quarter million. The series was created by a dude with links to one of the biggest talent agencies in the world, CAA. CAA talents like Jimmy Fallon have been pimping their NFTs (which were probably given to them for free) at their master's behest. The hope is that fools will fall for it.
 
 ## Research
 
