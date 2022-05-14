@@ -23,7 +23,7 @@ The person doesn't actually buy the art work, but only an _association_ with a u
 
 What about using the NFT with the earliest date as an indication of the real one? Can the url be changed?
 
-This isn't a takedown of blockchain technology or NFTs as such, but its specific application in the digital art market.
+This isn't a takedown of blockchain technology or NFTs as such, but its specific application in the digital art market. I also have nothing against artists making money as such - only with them using NFTs as a means.
 
 The bored ape series hosts some of the most expensive NFTs, with the cheapest going for a quarter million. The series was created by a dude with links to one of the biggest talent agencies in the world, CAA. CAA talents like Jimmy Fallon have been pimping their NFTs (which were probably given to them for free) at their master's behest. The hope is that fools will fall for the hype.
 
