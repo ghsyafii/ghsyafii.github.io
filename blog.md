@@ -27,6 +27,10 @@ This isn't a takedown of blockchain technology or NFTs as such, but its specific
 
 The bored ape series hosts some of the most expensive NFTs, with the cheapest going for a quarter million. The series was created by a dude with links to one of the biggest talent agencies in the world, CAA. CAA talents like Jimmy Fallon have been pimping their NFTs (which were probably given to them for free) at their master's behest. The hope is that fools will fall for the hype.
 
+Means of making money.
+
+Make people feel like they're part of a club. (Bored ape yacht club)
+
 ## Research
 
 "An NFT only proves ownership of the token - not copyrights of the image. Also, it proves ownership by an address - not by a person."
