@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="assets/style.css" />
+
 # On NFTs
 Blockchain is a digital list of transactions that is uneditable and publicly accessible. An NFT is a unique entry in that digital list. What sort of data does an NFT store? We’ll get back to that in a minute.
 
