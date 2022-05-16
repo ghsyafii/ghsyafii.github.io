@@ -17,7 +17,14 @@ Greater fool theory
 
 Provenance, chain of transmission. This can be gamed - a single person can own multiple wallets and "buy" and "sell" his own NFTs. A person can also ask his friends to buy his NFTs and pay them back in real money. To outsiders, it can seem that an NFT is rising in value. This is also what happens in the high-end art market - but at least you get to own something tangible and that you can enjoy without having to turn on your computer. 
 
-The person doesn't actually buy the art work, but only an _association_ with a url that hosts the digital asset. This means that: anybody can download the asset if he has the url, the url might go down, multiple NFTs might point to the same url and there's nothing to guarantee that your NFT is the _real_ one. 
+The person doesn't actually buy the art work, but only an _association_ with a url that hosts the digital asset. Anybody can access the url - the only special claim you have over the url is that you have a token 
+
+People are paying to pretend that they own a link.
+
+Unregulated - so owning an NFT doesn't mean anything.
+
+
+This means that: anybody can download the asset if he has the url, the url might go down, multiple NFTs might point to the same url and there's nothing to guarantee that your NFT is the _real_ one. 
 
 What about using the NFT with the earliest date as an indication of the real one? Can the url be changed?
 
@@ -44,6 +51,8 @@ The real aim of NFTs is to drive demand for cryptocurrencies.
 "Like a painting, NFTs need to be maintained. If a buyer purchases an NFT that relies on IPFS, it’ll ultimately be on them to ensure the file continues to be hosted and available to the system. If the NFT relies on a traditional URL, then buyers would be in a more precarious position, having to hope that whatever third party currently hosts the file — often the auction site, like with Grimes’ NFT — stays online.
 
 So there’s a very real chance that, some years from now, an NFT will point to a missing file. If that’s the case, how do you prove what it is you actually own?"
+
+“Your certificate of authenticity isn’t a certificate as much as a link to a record of your purchase. If the server the links points at goes down, your proof of ownership disappears and you won’t be getting it back.”
 
 
 
