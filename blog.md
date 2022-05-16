@@ -54,6 +54,20 @@ So there’s a very real chance that, some years from now, an NFT will point to 
 
 “Your certificate of authenticity isn’t a certificate as much as a link to a record of your purchase. If the server the links points at goes down, your proof of ownership disappears and you won’t be getting it back.”
 
+# The Left/Right Political Dichotomoy Has Got to Go
+
+What does it mean for someone to be left or right of the political spectrum? In the US at least, the former means that the person is a Progressive while the latter is a Conservative. The Progressive thinks the status quo is bad and wants society to _progress_ by making changes to the political order, while the Conservative thinks things are fine as they are and wants to _conserve_ the current state of affairs. Those on the far left wants things to change immediately while those on the far right wants things to remain exactly as they are. 
+
+### Draft Ideas
+
+The left/right dichotomy only has meaning in relation to a particular sociopolitical context, which varies across space and time. A conservative in the US doesn't want the same things as a conservative in Afghanistan. But a conservative in the US in 2022 might also not want the same things as a conservative in 1922.
+
+Promotes tribalism
+
+Fuzzy term that isn't useful in political discourse
+
+
+
 
 
 
