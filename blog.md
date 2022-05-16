@@ -66,9 +66,17 @@ Promotes tribalism
 
 Fuzzy term that isn't useful in political discourse
 
-# Logocentric Writing Must Be Stripped of Pathos
+# Philosophical Writing Must Be Stripped of Pathos
 
 Aristotle believed that there were three parts to persuasive writing or speaking: ethos, pathos and logos. Logos is the intellectual substance of what's being said - the validity of the arguments being made, the data supporting the premises, etc. Pathos is the emotional impact of the writing - a compelling story and a beautiful writing style can lull the reader into overlooking the logical flaws of a piece of writing. Ethos is the trustworthiness of the person trying to persuade you, which can be based on the person's credentials (you're more likely to listen to a person with a "dr." before her name when it comes to medical advice), among other things. 
+
+### Notes
+
+I need a name to describe a particular kind of writing - the sort that's used in academic writing, philosophical essays, policy papers, etc. 
+
+There is a place for pathos in writing. But it should be jettisoned from the above cases.
+
+After establishing the removal of pathos-cultivating techniques, I go a step further and propose a kind of writing made up of clearly indicated premises and conclusions, so that the truth value of the individual premises and the validity of the arguments can more readily be determined. 
 
 
 
