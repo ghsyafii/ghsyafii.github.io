@@ -31,7 +31,7 @@ Make people feel like they're part of a club. (Bored ape yacht club)
 
 The real aim of NFTs is to drive demand for cryptocurrencies.
 
-#### Research
+### Research
 
 "An NFT only proves ownership of the token - not copyrights of the image. Also, it proves ownership by an address - not by a person."
 
