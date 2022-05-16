@@ -1,5 +1,5 @@
 # NFTs === "bullshit"
-Blockchain is a digital list of transactions that is uneditable and publicly accessible. An NFT is a unique entry in that digital list. 
+A blockchain is a digital list of transactions that is uneditable and publicly accessible. An NFT is a unique entry in that digital list. 
 
 If you want to buy an NFT, you must first create a digital wallet and fill it with cryptocurrency bought with actual money. After paying, the NFT you just bought will have the following data: 
 
