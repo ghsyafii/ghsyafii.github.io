@@ -76,7 +76,7 @@ I need a name to describe a particular kind of writing - the sort that's used in
 
 There is a place for pathos in writing. But it should be jettisoned from the above cases.
 
-After establishing the removal of pathos-cultivating techniques, I go a step further and propose a kind of writing made up of clearly indicated premises and conclusions, so that the truth value of the individual premises and the validity of the arguments can more readily be determined. 
+After establishing the removal of pathos-cultivating techniques, I go a step further and propose a kind of writing made up of clearly indicated premises and conclusions, so that the truth value of the individual premises and the validity of the arguments made can be more readily determined. 
 
 
 
