@@ -68,7 +68,9 @@ Fuzzy term that isn't useful in political discourse
 
 # Logocentric Writing Must Be Stripped of Pathos
 
-Aristotle believed that there were three parts to persuasive writing or speaking: ethos, pathos and logos. Logos is the intellectual substance of what's being said - the validity of the arguments being made, the data supporting the premises, etc. Pathos is the emotional impact of the writing - a compelling story and a provocative writing style can lull the reader into overlooking the logical flaws of the piece of writing. Ethos is the trustworthiness of the person trying to persuade you, which can be based on the person's credentials (you're more likely to listen to a person with a "dr." before her name when it comes to medical advice), among other things. 
+Aristotle believed that there were three parts to persuasive writing or speaking: ethos, pathos and logos. Logos is the intellectual substance of what's being said - the validity of the arguments being made, the data supporting the premises, etc. Pathos is the emotional impact of the writing - a compelling story and a beautiful writing style can lull the reader into overlooking the logical flaws of a piece of writing. Ethos is the trustworthiness of the person trying to persuade you, which can be based on the person's credentials (you're more likely to listen to a person with a "dr." before her name when it comes to medical advice), among other things. 
+
+
 
 
 
