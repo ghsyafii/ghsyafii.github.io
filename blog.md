@@ -9,7 +9,7 @@ If you want to buy an NFT, you must first create a digital wallet and fill it wi
 * dateTime information
 * a url that hosts the digital asset, which is usually a media file like a .jpeg or .gif
 
-## Draft Ideas
+### Draft Ideas
 
 When you buy an NFT, you're buying a web link. No actual ownership or control of the artwork is transferred to you.
 
@@ -31,7 +31,7 @@ Make people feel like they're part of a club. (Bored ape yacht club)
 
 The real aim of NFTs is to drive demand for cryptocurrencies.
 
-## Research
+#### Research
 
 "An NFT only proves ownership of the token - not copyrights of the image. Also, it proves ownership by an address - not by a person."
 
