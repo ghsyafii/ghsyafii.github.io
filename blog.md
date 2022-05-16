@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="assets/style.css" />
-
 # NFTs === "bullshit"
 Blockchain is a digital list of transactions that is uneditable and publicly accessible. An NFT is a unique entry in that digital list. 
 
