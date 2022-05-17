@@ -1,13 +1,15 @@
 # NFTs === "bullshit"
-A blockchain is a digital list of transactions that is uneditable and publicly accessible. An NFT is a unique entry in that digital list. 
+A blockchain is a digital list of transactions that is publicly accessible. An NFT is a unique entry in that digital list. 
 
-If you want to buy an NFT, you must first create a digital wallet and fill it with cryptocurrency bought with actual money. After paying, the NFT you just bought will have the following data: 
+If you want to buy an NFT, you must first create a digital wallet and fill it with cryptocurrency bought with actual money. After paying, the NFT you just bought will include the following data: 
 
 * the current digital wallet associated with it (yours, in this case)
 * past digital wallets associated with it
 * how much it was sold for
 * dateTime information
 * a url that hosts the digital asset, which is usually a media file like a .jpeg or .gif
+
+Since every transaction is recorded, the _provenance_ and _price history_ of a given token can be easily established - useful information for someone interested in buying art.
 
 ### Draft Ideas
 
@@ -54,6 +56,10 @@ So there’s a very real chance that, some years from now, an NFT will point to 
 
 “Your certificate of authenticity isn’t a certificate as much as a link to a record of your purchase. If the server the links points at goes down, your proof of ownership disappears and you won’t be getting it back.”
 
+"Here are some more qualities that make a work of art valuable: it is “representative” (it looks like—and was executed in the same era as—other valuable works by the same artist); it has “a good provenance” (important people have owned it before); it is “included in the literature” (critics or historians have written about it in a museum catalogue or book published by a university press). Adolph Gottlieb paintings should have sun-discs in them. Cy Twomblys are best with squiggles. When it comes to Ellsworth Kelly, the more “totemic” the better."
+
+"Once a client has decided to consign with Sotheby’s, the work is shipped to Sotheby’s at the client’s expense. Contracted conservators inspect the art under black light and prepare a report that details any damage or past restoration. Cataloguers perform “due diligence,” which entails securing the work’s certificate of authenticity (if the artist is alive, from his gallery; if dead, from his foundation), checking the Art Loss Register (an international database of missing art) to make sure the work hasn’t been flagged as stolen, and completing a High Value Lot review if the work is estimated at over $10 million. Once the full provenance is confirmed, the work is photographed, written about, and reproduced in the catalogue."
+
 # The Left/Right Political Dichotomoy Has Got to Go
 
 What does it mean for someone to be left or right of the political spectrum? In the US at least, the former means that the person is a Progressive while the latter is a Conservative. The Progressive thinks the status quo is bad and wants society to _progress_ by making changes to the political order, while the Conservative thinks things are fine as they are and wants to _conserve_ the current state of affairs. Those on the far left want things to change immediately while those on the far right want things to remain exactly as they are. 
@@ -66,7 +72,7 @@ Promotes tribalism
 
 Fuzzy term that isn't useful in political discourse
 
-# Philosophical Writing Must Be Stripped of Pathos
+# Scientific Writing Must Be Stripped of Pathos
 
 Aristotle believed that there were three parts to persuasive writing or speaking: ethos, pathos and logos. Logos is the intellectual substance of what's being said - the validity of the arguments being made, the data supporting the premises, etc. Pathos is the emotional impact of the writing - a compelling story and a beautiful writing style can lull the reader into overlooking the logical flaws of a piece of writing. Ethos is the trustworthiness of the person trying to persuade you, which can be based on the person's credentials (you're more likely to listen to a person with a "dr." before her name when it comes to medical advice), among other things. 
 
