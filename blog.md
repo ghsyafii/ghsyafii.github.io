@@ -62,11 +62,15 @@ So there’s a very real chance that, some years from now, an NFT will point to 
 
 # The Left/Right Political Dichotomoy Has Got to Go
 
-What does it mean for someone to be left or right of the political spectrum? In the US at least, the former means that the person is a Progressive while the latter is a Conservative. The Progressive thinks the status quo is bad and wants society to _progress_ by making changes to the political order, while the Conservative thinks things are fine as they are and wants to _conserve_ the current state of affairs. Those on the far left want things to change immediately while those on the far right want things to remain exactly as they are. 
+What does it mean for someone to be left or right of the political spectrum? In the US at least, the terms are synonyms for Progressive and Conservative, respectively. The Progressive thinks Tradition is bad and wants society to _progress_ beyond it, while the Conservative thinks Tradition is good and wants to _conserve_ it. Those on the far left want Tradition to be abandoned entirely, while those on the far right want Tradition to be adopted as it is without modifications. 
 
 ### Draft Ideas
 
-The left/right dichotomy only has meaning in relation to a particular sociopolitical context, which varies across space and time. A conservative in the US doesn't want the same things as a conservative in Afghanistan. But a conservative in the US in 2022 might also not want the same things as a conservative in 1922.
+The left/right dichotomy only has meaning in relation to a particular sociopolitical context. A conservative in the US doesn't want the same things as a conservative in Afghanistan, and a conservative in the US in 2022 might also not want the same things as a conservative in 1922. 
+
+The point is, the terms left and right only have meaning in relation to a Tradition. Since the latter differs across space and time, and doesn't have a clear sense, why use these terms?
+
+There is also another aspect - speed. The left has been associated with immediate change, while the right with gradual change.
 
 Promotes tribalism
 
