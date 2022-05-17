@@ -74,7 +74,7 @@ There is also another aspect - speed. The left has been associated with immediat
 
 Promotes tribalism
 
-Fuzzy term that isn't useful in political discourse
+Fuzzy term that hinders constructive dialogue
 
 # Scientific Writing Must Be Stripped of Pathos
 
