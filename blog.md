@@ -72,15 +72,19 @@ The point is, the terms left and right only have meaning in relation to a Tradit
 
 There is also another aspect - speed. The left has been associated with immediate change, while the right with gradual change.
 
-Promotes tribalism
+Promotes tribalism 
 
-Fuzzy term that hinders constructive dialogue
+Fuzzy term that impedes constructive dialogue
 
 # Scientific Writing Must Be Stripped of Pathos
 
 Aristotle believed that there were three parts to persuasive writing or speaking: ethos, pathos and logos. Logos is the intellectual substance of what's being said - the validity of the arguments being made, the data supporting the premises, etc. Pathos is the emotional impact of the writing - a compelling story and a beautiful writing style can lull the reader into overlooking the logical flaws of a piece of writing. Ethos is the trustworthiness of the person trying to persuade you, which can be based on the person's credentials (you're more likely to listen to a person with a "dr." before her name when it comes to medical advice), among other things. 
 
 ### Notes
+
+In matters where we have no expertise, we rely on Pathos. 
+
+We do all kinds of things with words: scold, enquire, exalt, belittle, joke, provoke, describe. Sometimes, we use words to persuade. 
 
 I need a name to describe a particular kind of writing - the sort that's used in academic writing, philosophical essays, policy papers, etc. 
 
