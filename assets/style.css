@@ -7,7 +7,8 @@
 }
 
 body {
-  font-family:apfel_grotezkregular;
+  /* font-family:apfel_grotezkregular; */
+  font-family: 'Inter', sans-serif;
   font-size: 16px;
   line-height: 1.25;
   transition: color 2s;
@@ -220,7 +221,7 @@ div.colour-changer input {
 
 .info {
   /*background: lightcoral;*/
-  margin-right: 15%;
+  margin-right: 20%;
 }
 
 .mobile {
