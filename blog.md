@@ -1,3 +1,6 @@
+# A New Post
+This is a new post, you know.
+
 # NFTs === "bullshit"
 A blockchain is a digital list of transactions that is publicly accessible. An NFT is a unique entry in that digital list. 
 
